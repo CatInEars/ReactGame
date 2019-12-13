@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-react-game/static/css/main.fcccad85.chunk.css",
+    "main.js": "/my-react-game/static/js/main.1a937262.chunk.js",
+    "main.js.map": "/my-react-game/static/js/main.1a937262.chunk.js.map",
+    "runtime-main.js": "/my-react-game/static/js/runtime-main.8a114ab7.js",
+    "runtime-main.js.map": "/my-react-game/static/js/runtime-main.8a114ab7.js.map",
+    "static/js/2.d884f893.chunk.js": "/my-react-game/static/js/2.d884f893.chunk.js",
+    "static/js/2.d884f893.chunk.js.map": "/my-react-game/static/js/2.d884f893.chunk.js.map",
+    "index.html": "/my-react-game/index.html",
+    "precache-manifest.2488d66bc486f1f19abcb76b5c726f4d.js": "/my-react-game/precache-manifest.2488d66bc486f1f19abcb76b5c726f4d.js",
+    "service-worker.js": "/my-react-game/service-worker.js",
+    "static/css/main.fcccad85.chunk.css.map": "/my-react-game/static/css/main.fcccad85.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a114ab7.js",
+    "static/js/2.d884f893.chunk.js",
+    "static/css/main.fcccad85.chunk.css",
+    "static/js/main.1a937262.chunk.js"
+  ]
+}
